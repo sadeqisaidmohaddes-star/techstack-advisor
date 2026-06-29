@@ -2,6 +2,7 @@
 /.next
 /out
 /build
+.claude/
 next-env.d.ts
 *.tsbuildinfo
 .DS_Store
