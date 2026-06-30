@@ -1,5 +1,7 @@
 # TechStack Advisor
 
+**[Open the live advisor](https://sadeqisaidmohaddes-star.github.io/techstack-advisor/)**
+
 A rule-based advisor that recommends a tech stack for any kind of project.
 
 > **Project history:** The original project was developed from January through

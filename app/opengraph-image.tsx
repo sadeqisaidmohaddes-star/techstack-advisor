@@ -1,5 +1,7 @@
 import { ImageResponse } from "next/og";
 
+export const dynamic = "force-static";
+
 export const alt = "TechStack Advisor — find the right tech stack for what you're building";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
